@@ -1,2 +1,6 @@
-# Hello-world-i like to play bdo and i want to make discord bots now.
+# Hello-world-
 just another repository
+
+Hello!
+
+i like to play bdo and i want to make discord bots now.
